@@ -1,4 +1,4 @@
-# CODSOFT-Task3
+# Landing Page
 Landing Page
 Welcome to my landing page repository! This project is built using HTML, CSS, and JavaScript to create a visually appealing and functional landing page.
 
